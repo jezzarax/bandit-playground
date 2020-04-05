@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-%matplotlib notebook
+%matplotlib inline
 
 import sys
 import numpy as np
